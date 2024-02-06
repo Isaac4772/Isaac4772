@@ -1,16 +1,14 @@
-### Hi there 👋
+## About Me
+I love crafting digital experiences and helping startups bring their ideas to life.
 
-<!--
-**Isaac4772/Isaac4772** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- Frontend Development: HTML, CSS, JavaScript, Vue.js, React.js, Next.js
+- Backend Development: Node.js, Express, Laravel
+- Databases: MongoDB
 
-Here are some ideas to get you started:
+## Get in Touch
+Let's connect!
+- Email: [aungpy942@gmail.com](mailto:aungpy942@gmail.com)
+- LinkedIn: [Aung Paing](https://www.linkedin.com/in/aung-paing-694014218/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Looking forward to collaborating with you! 🚀

@@ -11,5 +11,5 @@ Let's connect!
 - Email: [aungpy942@gmail.com](mailto:aungpy942@gmail.com)
 - LinkedIn: [Aung Paing](https://www.linkedin.com/in/aung-paing-694014218/)
 
-Checkout my [portfolio](https://isaac4772.github.io/Aung-Paing/).
+Check out my [portfolio](https://isaac4772.github.io/Aung-Paing/).
 Looking forward to collaborating with you! 🚀

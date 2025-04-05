@@ -2,8 +2,8 @@
 I love crafting digital experiences and helping startups bring their ideas to life.
 
 ## Skills
-- Frontend Development: HTML, CSS, JavaScript, Vue.js, React.js, Next.js, Nuxt.js
-- Backend Development: Node.js, Express, Laravel
+- Frontend Development: HTML, CSS, JavaScript, TypeScript, Vue.js, React.js, Next.js, Nuxt.js, Flutter
+- Backend Development: Node.js
 - Databases: MongoDB, MySQL
 
 ## Get in Touch
